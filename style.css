@@ -4,8 +4,7 @@
 }
 
 body {
-    font-family: Stylish , sant-serif;
-
+    font-family: 'Roboto', sans-serif;
 }
 
 header {
@@ -30,44 +29,46 @@ header {
     display: inline-block;
     margin: 0 16px;
     font-size: 24px;
-} 
+}
 
-.escola-imagem{
+.escola-imagem {
     width: 25%;
 }
+
 .escola {
-    background-image:linear-gradient(#424e61, #4ebfe9);
-    color:white;
-    display; flex;
+    background-image: linear-gradient(#424E61, #4EBFE9);
+    color: white;
+    display: flex;
     justify-content: center;
     align-items: center;
     padding: 24px 0;
 }
 
-.escola-div-conteudo{
-    width:35%;
+.escola-div-conteudo {
+    width: 35%;
 }
 
-.escola-titulo{ 
+.escola-titulo {
     padding: 24px 0;
 }
 
-.estudante-imagem{
-    width: 30%;  
+.estudante-imagem {
+    width: 30%;
 }
 
 .estudante-icone {
     width: 25px;
     padding: 4px 8px;
 }
-.estudante-div{
+
+.estudante-div {
     text-align: center;
-    padding:16px 0 ;
+    padding: 16px 0;
 }
 
-.etudante-titulo {
+.estudante-titulo {
     text-align: center;
-    padding: 50px;
+    padding: 50px 0;
 }
 
 .rodape {
@@ -75,8 +76,7 @@ header {
     text-align: center;
 }
 
-.rodape-imagem{
+.rodape-imagem {
     height: 60px;
     padding: 12px 0;
 }
-
