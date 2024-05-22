@@ -8,12 +8,12 @@ body {
 }
 
 header {
-    background-color: #932297;
+    background-color: #424E61;
     color: white;
 }
 
 .cabecalho {
-    background-color: #3d84f7;
+    background-color: #424E61;
     color: white;
     display: flex;
     justify-content: space-around;
@@ -53,12 +53,12 @@ header {
 }
 
 .estudante-imagem {
-    width: 10%;
+    width: 30%;
 }
 
 .estudante-icone {
-    width: 10px;
-    padding: 1px 2px;
+    width: 25px;
+    padding: 4px 8px;
 }
 
 .estudante-div {
@@ -79,4 +79,3 @@ header {
 .rodape-imagem {
     height: 60px;
     padding:
-}
