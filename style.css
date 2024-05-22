@@ -2,14 +2,11 @@
 @import url(/styles/header.css);
 
 :root {
-    --cor-principal: #845EC2;
-    --cor-secundaria: #D65DB1;
-    --cor-rosa: #FF6F91;
-    --cor-laranja: #FF9671;
-    --cor-fundo: #FFC75F;
-    --cor-escrita: #F9F871;
-    --cor-botao: #00C9A7;
-    --cor-preto: #000000;
-    --cor-branco: #ffffff;
+    --cor-principal: #993399;
+    --cor-secundaria: #BB54B9;
+    --cor-rosa: #DD74DB;
+    --cor-lilás: #FF95FD;
+    --cor-fundo: #FFB6FF;
+    
 }
 
