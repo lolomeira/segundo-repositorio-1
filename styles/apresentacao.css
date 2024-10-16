@@ -7,13 +7,24 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+header {
+    background-color: #424E61;
+    color: white;
+}
+
 .cabecalho {
     background-color: #424E61;
     color: white;
     display: flex;
     justify-content: space-around;
-    
+    align-items: center;
+    padding: 24px 0;
 }
+
+.cabecalho-imagem {
+    width: 20%;
+}
+
 .cabecalho-lista-item {
     display: inline-block;
     margin: 0 16px;
@@ -67,4 +78,5 @@ body {
 
 .rodape-imagem {
     height: 60px;
-    padding:
+    padding: 12px 0;
+}

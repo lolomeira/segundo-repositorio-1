@@ -1,2 +1,2 @@
-# segundo-repositorio
-repositorio criado para estudos de programacão em linguagem HTML, CSS e javascript
+# segundo-repositorio2E
+Repositório criado para estudos de programação em linguagem HTML, CSS e Javascript.
