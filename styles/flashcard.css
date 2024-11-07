@@ -1,0 +1,41 @@
+.flashcard{
+    background-color: var(--cor-roxo);
+ }
+ #flashcard{
+    display: flex;
+ }
+ .cartao{
+    margin: 1rem 1rem;
+    background-color: var(--cor-roxo);
+    text-align: left;
+    padding: 0,5rem;
+    position: absolute;
+    margin: 0.6rem;
+    border-radius: 0.6rem;
+    font-size:lvw;
+    color: var(--cor-roxo); 
+ }
+ .cartao_conteudo{
+   text-align: center;
+   height: 100%;
+ }
+ .cartao_conteudo h3 {
+   background-color: var (--cor-principal);
+   text-align: left;
+   padding: 0.5rem;
+ }
+ .cartao_conteudo{
+   text-align: center;
+   height: 100%;
+ }
+.cartao_conteudo h3 {
+background-color:var(--cor-principal);
+text-align:left;
+padding: 0.5rem;
+position: absolute;
+margin: 0.6rem; 
+border-radius: 0.6rem;
+font-size: 1vw;
+color: var(--cor-branco);
+}
+}
